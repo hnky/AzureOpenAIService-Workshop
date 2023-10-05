@@ -5,7 +5,7 @@
 
 This lab includes the following modules:
 
-1. **Understanding LLM's**. Understand the natural language models available in OpenAI and Azure OpenAI Service.
+1. [**Understanding LLM's**](30-Understanding-LLMs.md). Understand the natural language models available in OpenAI and Azure OpenAI Service.
 
 
 
