@@ -3,13 +3,13 @@
 ## What is a Large Language Model (LLM)
 A large language model (LLM) is a type of AI that can process and produce natural language text. It learns from a massive amount of text data such as books, articles, and web pages to discover patterns and rules of language from them. 
 
-### How large are they?
+### How large are they? 
 An LLM is built using a neural network architecture. It takes an input, has a number of hidden layers that break down different aspects of language, and then an output layer. People often report how the next foundational model is bigger than the last - what does this mean? The more parameters a model has, the more data it can process, learn from, and generate. For each connection between two neurons of the neural network architecture, there is a function: weight * input + bias.  These produce numerical values that determine how the model processes language. They are rather large when they can report millions of parameters back in 2018 to trillions of parameters being calculated by GPT4 in 2023.
 
 ### Where do 'foundational models' fit into LLMs?
 A foundation model refers to a specific instance or version of an LLM, such as GPT-3, GPT-4 or Codex, that has been trained and fine-tuned on a large corpus of text or code (in the case of the Codex model). A foundational model takes in training data in all different formats and uses a transformer architecture to build a general model. From there adaptions and specializations can be created to achieve certain tasks via prompting or fine-tuning.
 
-### How does an LLM differ from more traditional natural language processing (NLP)? 
+### How does a LLM differ from more traditional natural language processing (NLP)? 
 
 
 Traditional NLP | Large Language Models	
@@ -19,7 +19,7 @@ Provide the model a set of labelled data to train ML model on | Uses many TBs of
 Highly optimized for specific use cases | Describe in natural language what you want the model to do	
 
 
-### What doesn't an LLM do?
+### What doesn't a LLM do?
 
 - **Understand language:** its just a predictive engine that based on text it has seen previously will pull patterns together to produce text. Also does not understand math.
 - **Understand facts:** there are no separate 'modes' for "information retrieval" and "creative writing", it just predicts the next most probably token.
