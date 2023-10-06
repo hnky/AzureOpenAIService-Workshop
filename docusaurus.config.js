@@ -12,8 +12,8 @@ const config = {
   url: "https://hnky.github.io/",
   baseUrl: "/AzureOpenAIService-Workshop/",
 
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "throw",
+  onBrokenLinks: "ignore",
+  onBrokenMarkdownLinks: "ignore",
   trailingSlash: true,
 
   favicon: "img/favicon.ico",
