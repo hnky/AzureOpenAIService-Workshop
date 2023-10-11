@@ -1,4 +1,4 @@
-# Explore AI Models
+# Setup
 
 For this workshop we are going to use an interface that is build on top of the  Azure Open AI Service. In this playground you have the oppertunity to play with the models with the need to deploy resources in Azure.
 
