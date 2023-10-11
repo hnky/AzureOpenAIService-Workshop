@@ -15,6 +15,7 @@ The goal of this 60-minute workhsop is to:
 1. [Setup](Setup). Create and deploy the Azure OpenAI resource in the Azure Portal
 2. [Explore AI Models](Explore-AI-Models). Understand the natural language models available in Azure OpenAI Service.
 3. [Understanding LLM's](Understanding-LLMs). Understand and experiment with prompts and completions.
+4. [Prompt Engineering](Prompt-Engineering). Interact through prompt engineering with OpenAI models. 
 9. [Learnings and Resources](Learnings-and-Resources). Recap and links for further learning.
 10. [Extra Credit](Extra-Credit). If you have time, explore the capabilities of Bing Chat.
 
