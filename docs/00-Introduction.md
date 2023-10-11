@@ -3,7 +3,7 @@ sidebar_position: 0
 slug: /
 ---
 
-# Explore the OpenAI GPT Models
+# Welcome
 
 This session is a 60-minute workshop of interaction with the OpenAI models ChatGPT (gpt-3.5-turbo). 
 
@@ -15,7 +15,6 @@ The goal of this 60-minute workhsop is to:
 1. [Setup](Setup). Create and deploy the Azure OpenAI resource in the Azure Portal
 2. [Explore AI Models](Explore-AI-Models). Understand the natural language models available in Azure OpenAI Service.
 3. [Understanding LLM's](Understanding-LLMs). Understand and experiment with prompts and completions.
-
 9. [Learnings and Resources](Learnings-and-Resources). Recap and links for further learning.
 10. [Extra Credit](Extra-Credit). If you have time, explore the capabilities of Bing Chat.
 

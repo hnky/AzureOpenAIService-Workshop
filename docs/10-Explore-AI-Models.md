@@ -1,12 +1,9 @@
 # Explore AI Models
 
-Before you begin this section, navigate to [WEB URL for UI]:
+Before you begin this section, navigate to [setup](Setup) part of the workshop. 
 
 ## Deployed models available:
-{add sections and screenshot of what model is deployed in the environment]
-The model deployed that we are using is:
- - gpt-35-turbo: an instance of the OpenAI ChatGPT model
-
+In this workshop you will be using the gpt-35-turbo model an instance of the OpenAI ChatGPT model
 
 In this workshop, we will occasionally mention GPT-4, the latest model from OpenAI, but we will not use it.
 
