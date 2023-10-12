@@ -16,7 +16,7 @@ Bing Create uses the Dall-E image generation model to generate an image from a p
 
 ## Have a conversation with Bing Chat
 
-> NOTE: In addition to a Microsoft account, you must have been granted access to Bing Chat. To join the waitlist, visit [Bing Chat](https://www.bing.com/new) and click "Join the waitlist".
+In this section we will use Bing Chat: https://bing.com/chat.
 
 Unlike the conversation-based models such as ChatGPT in Azure OpenAI Service, Bing Chat's responses are not limited by the underlying natural language model alone. Bing Chat uses a variety of techniques to provide "grounding" for its responses, including the results of live Web searches. This means that Bing Chat can use current information, not just information that was included in the model's training data, to inform its responses. 
 
@@ -45,6 +45,7 @@ How's today's weather in Seattle, WA
 ```
 What big news happened today?
 ```
+
 ## Generate an image in Creative mode
 
 As the name suggests, Creative mode is best for generating creative responses that won't necessarily be grounded in facts: poetry, jokes, and so on. You can also use Bing Chat in creative mode to generate images. Try something like this:

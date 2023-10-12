@@ -5,7 +5,7 @@ slug: /
 
 # Welcome
 
-This session is a 60-minute workshop of interaction with the OpenAI models ChatGPT (gpt-3.5-turbo). 
+This session is a 60-minute workshop of interaction with the OpenAI model ChatGPT (gpt-3.5-turbo). 
 
 The goal of this 60-minute workhsop is to:
   * Understand the implementation and capabilities of ChatGPT
@@ -21,7 +21,7 @@ The goal of this 60-minute workhsop is to:
 
 
 ## Do this workshop from home
-During the workshop we will provide you with an interface to play and explore the OpenAI models. If you want to do it from home you can use [Azure AI Studio](https://oai.azure.com/portal) or [OpenAI Playground](https://platform.openai.com/playground), and work through the examples in this repository later at your own pace and schedule.
+During the workshop we will provide you with an interface to play and explore the OpenAI models. If you want to do it from home you can use [Azure AI Studio](https://oai.azure.com/portal) or [OpenAI Playground](https://platform.openai.com/playground) interfaces instead, and work through the examples in this repository later at your own pace and schedule.
 
 ## Feedback
 We would love to hear your feedback on this lab. Please visit the [GitHub repository for this lab](https://github.com/hnky/AzureOpenAIService-Workshop), and use the Discussions tab for comments, or the Issues tab for bugs or suggestions.
