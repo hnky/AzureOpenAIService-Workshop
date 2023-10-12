@@ -1,13 +1,14 @@
 # Explore the OpenAI GPT Models
 
+This repository contains content for a 60-minute workshop of interaction with the OpenAI model ChatGPT (gpt-3.5-turbo).
 
-## Outline
+If you are taking the workshop, **[Click here to begin](https://hnky.github.io/AzureOpenAIService-Workshop/)**.
 
-This lab includes the following modules:
+## Modifying this workshop
 
-1. [**Understanding LLM's**](30-Understanding-LLMs.md). Understand the natural language models available in OpenAI and Azure OpenAI Service.
+The workshop website is built from this content using [Docusaurus 2](https://docusaurus.io/), a modern open-source static website generator.
 
-
+You are free to copy, adapt and use this content according to the terms of the [MIT License](LICENSE).
 
 ## Feedback
 

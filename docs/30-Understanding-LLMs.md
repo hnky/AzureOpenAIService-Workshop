@@ -25,8 +25,8 @@ Highly optimized for specific use cases | Describe in natural language what you 
 
 - **Understand language:** its just a predictive engine that based on text it has seen previously will pull patterns together to produce text. Also does not understand math.
 - **Understand facts:** there are no separate 'modes' for "information retrieval" and "creative writing", it just predicts the next most probably token.
-- **Understand manners, emotion or ethics**: Avoid anthropomorphizing an LLM
-'Understand' anything: the output is just a combination of the training data and the prompts
+- **Understand manners, emotion or ethics**: Avoid anthropomorphizing LLMs or claiming they
+'understand' anything: the output is just a combination of the training data and the prompts.
 
 ## Understanding tokens
 
@@ -34,7 +34,7 @@ We've mentioned "tokens" a few times without stopping to explain what they are. 
 
 The OpenAI natural language models don't operate on words or characters as units of text, but on something in-between: tokens. A token may be a single character, or a fraction of a word, or an entire word. Many common words are represented by a single token, less common words are represented by multiple tokens.
 
-Open AI has a useful Tokenizer website that can help you understand how it tokenizes your requests - navigate there now and try out the examples below: https://platform.openai.com/tokenizer
+Open AI has a useful Tokenizer website that can help you understand how it tokenizes your requests - navigate there now and try out the examples below: https://platform.openai.com/tokenizer.
 
 When you enter text in the prompt box, a counter appears below that counts the total number of tokens in the box. (Note: the counter takes a few seconds to update if you're actively typing.)
 
@@ -56,7 +56,7 @@ The natural language models generate completions one token at a time, but the ge
 
 ![Alt Text](images/llm-002.png)
 
-Then it adds that token to the prompt and repeats the process until the "Max length (tokens)" limit is met for the completion, or until the model generates a special token called a "stop token", which prevents further tokens from being generated. (This [blog](https://bea.stollnitz.com/blog/how-gpt-works/) by Beatriz Stollnitz explains the process in more detail)
+Then it adds that token to the prompt and repeats the process until the "Max length (tokens)" limit is met for the completion, or until the model generates a special token called a "stop token", which prevents further tokens from being generated. (This [blog](https://bea.stollnitz.com/blog/how-gpt-works/) by Beatriz Stollnitz explains the process in more detail.)
 
 This is how the model generates completions of one or more words, and why those completions can change from invocation to invocation.
 
