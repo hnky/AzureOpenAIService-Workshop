@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Explore the OpenAI GPT Models",
+  title: " Learn how to use OpenAI models (e.g. ChatGPT) using Azure OpenAI",
   tagline: "A 60-minute workshop on OpenAI GPT Models",
 
   url: "https://hnky.github.io/",
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "hnky", // Usually your GitHub org/user name.
-  projectName: "OpenAI-Lab-UCB", // Usually your repo name.
+  projectName: "AzureOpenAIService-Workshop", // Usually your repo name.
 
   deploymentBranch: "gh-pages", // Branch that GitHub pages will deploy from.
 
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/revodavid/OpenAI-Lab-UCB/tree/main",
+          editUrl: "https://hnky.github.io/AzureOpenAIService-Workshop/tree/main",
         },
         blog: false,
         theme: {
