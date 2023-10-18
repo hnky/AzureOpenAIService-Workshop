@@ -10,8 +10,9 @@ We hope that in the last hour, you've learned what natural language generative A
 
 ## Additional Resources
 
-Here are a few resources to help you learn more about Azure OpenAI Service:
+Here are a few resources to help you take that next step in signing up and learning more about Azure OpenAI Service:
 
+* [Apply for access](https://aka.ms/oaiapply) to Azure Open AI Service with a use case
 * Microsoft Learn module: [Intro to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)
 * [Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
 * [Azure OpenAI Service pricing](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/#pricing)
