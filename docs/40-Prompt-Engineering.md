@@ -288,7 +288,7 @@ This section discusses prompt engineering techniques that can help LLMs solve ce
 
 ### Zero-shot learning
 
-LLMs are trained on such large amounts of data they maybe be able to perform some tasks with very little prompting. Try the example below and change the sentence to see what outcomes you find.
+LLMs are trained on such large amounts of data they may be be able to perform some tasks with very little prompting. Try the example below and change the sentence to see what outcomes you find.
 
 ```text
 Classify the text into neutral, negative or positive.
