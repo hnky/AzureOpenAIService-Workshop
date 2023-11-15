@@ -44,13 +44,13 @@ When you enter text in the prompt box, a counter appears below that counts the t
 apple
 ```
 ```
-hamburger
+blueberries
 ```
 ```
 Skarsgård
 ```
 
-As a common word, "apple" requires only one token. The word "hamburger" requires three tokens: "ham", "bur" and "ger". Unless they are very common, proper names generally require multiple tokens. It's this token representation that allows AI models to generate words that are not in any dictionary, but without having to generate text on a letter-by-letter basis (which could easily result in gibberish).
+As a common word, "apple" requires only one token. The word "blueberries" requires two tokens: "blue" and "berries". Unless they are very common, proper names generally require multiple tokens. It's this token representation that allows AI models to generate words that are not in any dictionary, but without having to generate text on a letter-by-letter basis (which could easily result in gibberish).
 
 The natural language models generate completions one token at a time, but the generated token is not deterministic. At each step, the model outputs a list of all possible tokens with associated weights. The API samples one token from this list, with heavily-weighted tokens more likely to be selected than the others.
 
