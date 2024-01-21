@@ -195,7 +195,7 @@ Lets try it out. Add to the system message
 You are a friendly chatbot giving information about cities in Europe.
 ```
 
-save the system message and restart the chat, ask your agent about London, reveiw the response. Now ask it about racoons - what is the outcome. It tells you information about racoons. Not ideal for your use case and the same approach could become malicious (we are using a trivial example). Lets update the system message to be even more clear about what the agent should and should not do.
+save the system message and restart the chat, ask your agent about London, review the response. Now ask it about racoons - what is the outcome. It tells you information about raccoons. This may not be ideal for your use case and the same approach could become malicious (we are using a trivial example). Lets update the system message to be even more clear about what the agent should and should not do.
 
 ```
 You are a friendly chatbot giving information about cities in Europe.
